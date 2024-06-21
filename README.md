@@ -6,6 +6,11 @@
 
 - Learning and output
 
+| top |
+| ----- |
+| ![example](https://github.com/yuu-ichi/leaf-logs/assets/173366889/69063da4-1564-4135-b68d-7920dbda958f) |
+
+
 ## web framework
 
 - 📖 [Remix docs](https://remix.run/docs)
