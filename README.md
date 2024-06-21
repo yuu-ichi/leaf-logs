@@ -6,10 +6,9 @@
 
 - Learning and output
 
-| top |
-| ----- |
-| ![example](https://github.com/yuu-ichi/leaf-logs/assets/173366889/69063da4-1564-4135-b68d-7920dbda958f) |
-
+| top | about |
+| ----- | ----- |
+| ![example](https://github.com/yuu-ichi/leaf-logs/assets/173366889/69063da4-1564-4135-b68d-7920dbda958f) | ![example_about](https://github.com/yuu-ichi/leaf-logs/assets/173366889/176a1e3c-bfe2-47ce-95d4-e1ffcb374ff6) |
 
 ## web framework
 
