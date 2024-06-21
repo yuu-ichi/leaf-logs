@@ -18,6 +18,12 @@
   - tailwindcss
   - prettier
 
+### init
+
+```shellscript
+npm install
+```
+
 ### runs
 
 Run the dev server:
